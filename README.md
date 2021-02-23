@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sjayashree01)](https://github.com/sjayashree01/github-readme-stats)
 
